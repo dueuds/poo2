@@ -1,0 +1,8 @@
+C:\Users\autologon\Downloads\AulaCadProduto\bin\Debug\AulaCadProduto.exe.config
+C:\Users\autologon\Downloads\AulaCadProduto\bin\Debug\AulaCadProduto.exe
+C:\Users\autologon\Downloads\AulaCadProduto\bin\Debug\AulaCadProduto.pdb
+C:\Users\autologon\Downloads\AulaCadProduto\obj\Debug\AulaCadProduto.csproj.AssemblyReference.cache
+C:\Users\autologon\Downloads\AulaCadProduto\obj\Debug\AulaCadProduto.csproj.SuggestedBindingRedirects.cache
+C:\Users\autologon\Downloads\AulaCadProduto\obj\Debug\AulaCadProduto.csproj.CoreCompileInputs.cache
+C:\Users\autologon\Downloads\AulaCadProduto\obj\Debug\AulaCadProduto.exe
+C:\Users\autologon\Downloads\AulaCadProduto\obj\Debug\AulaCadProduto.pdb
