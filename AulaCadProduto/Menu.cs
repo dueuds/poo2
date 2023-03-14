@@ -19,7 +19,8 @@ namespace AulaCadProduto
         private void Opcoes()
         {
             Console.WriteLine("1 - Inserir Dados");
-            Console.WriteLine("2 - Escrever Dados");
+            Console.WriteLine("2 - Apresentar Dados");
+            Console.WriteLine("3 - Média de valores");
             Console.WriteLine("0 - sair");
         }
 
@@ -68,6 +69,18 @@ namespace AulaCadProduto
             {
                 p = cad.GetProduto(i);
                 Console.WriteLine(p.ToString());
+            }
+        }
+
+        private void MediaProdutos()
+        { 
+            int tam = cad.Tamanho();
+            double total = 0;
+
+            for (int i = 0; i < tam; i++)
+            {
+                Console.WriteLine();
+                total = cad.GetProduto(i).Valor;
             }
         }
     }
